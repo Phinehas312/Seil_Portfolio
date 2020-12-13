@@ -1,7 +1,7 @@
 # Seil_Portfolio
 Example data science portfolio
 
-#Project 1: Optimizing a Diet Using PuLP: Project Overview
+# Project 1: Optimizing a Diet Using PuLP: Project Overview
 * Found a way to satisfy the nutritional requirements of soldiers back in 1930's and 40's, while minimizing the cost.
 * Formulated an optimization model(a linear program) to find the cheapest diet that satisfies the maximum and minimum daily nutrition constraints, and solved it using PuLP.
 * For the first part, I made the model by only setting up the minimum and maximum constraints for each nutrition.
