@@ -12,6 +12,8 @@ We sampled 10,000 articles for our project.
 * Comparing with LDA, k-means produced 20 different topics of cluster assignments with less overlap.
 * Overwhelming number of articles referenced one paper 156 times, and VoteRank was more efficient in determining influential papers, compared to degree centrality.
 
+![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/doc_clustering.png)
+![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/citation_graph.png)
 
 # [Project 2: Establishing a Georgia Tech COVID-19 Testing System Database](https://github.com/Phinehas312/GT_COVID19_TestingSystemDB)
 * Analyzed and designed the entity relationship diagram, specified relational schema, and implemented procedures of online Georgia Tech COVID-19 testing system database.
