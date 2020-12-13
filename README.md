@@ -1,5 +1,5 @@
 # Seil_Portfolio
-Data science projects overview
+### Data science projects overview
 
 # [Project 1: COVID-19 Research Articles Analysis and Visualization](https://github.com/Phinehas312/COVID19_Research_Articles_Analysis_and_Visualization/tree/main/CORD19)
 * Created a COVID-19 Research Articles Dataset Browser, a dashboard system with an automated pipeline that summarizes COVID-19 research articles by incorporating three techniques: clustering, citation networks, and Q&A system.
