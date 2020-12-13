@@ -1,7 +1,7 @@
 # Seil_Portfolio
 Example data science portfolio
 
-# [Project 1: Establishing a Georgia Tech COVID-19 Testing System Database]
+# [Project 1: Establishing a Georgia Tech COVID-19 Testing System Database](https://github.com/Phinehas312/GT_COVID19_TestingSystemDB)
 * Analyzed and designed the entity relationship diagram, specified relational schema, and implemented procedures of online Georgia Tech COVID-19 testing system database.
 * Used the classical methodology for relational database development and implemented the system using a relational DBMS that supports standard SQL series.
 * Used my localhost MySQL Server to implement my database and the application.
