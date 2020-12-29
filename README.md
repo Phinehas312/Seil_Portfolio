@@ -20,7 +20,7 @@
     2. Getting rid of outliers
     3. Cleaning date columns
     4. Observing car sales by year and by brand
-    5. Aggregated data by top sales brands' prices and mileages
+    5. Aggregating data by top sales brands' prices and mileages
 * As a result, I could find the following observations:
     1. The amount of car sales peaked from the late 1990's to ealry 2000's.
     2. Out of top 6 sales brands, the most expensive brands were BMW, Mercedes Benz, and Audi, while Opel and Volkswagen were less expensive, and Ford was in between.
