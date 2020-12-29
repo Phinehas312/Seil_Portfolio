@@ -14,7 +14,7 @@
 ![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/doc_clustering.png)
 ![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/citation_graph.png)
 
-# [Project 2: Analyzing Ebay Car Sales Data]
+# [Project 2: Analyzing Ebay Car Sales Data]()
 * Cleaned data for analysis with following procedures:
     1. Dropping columns with insignificant values
     2. Getting rid of outliers
@@ -26,7 +26,7 @@
     2. Out of top 6 sales brands, the most expensive brands were BMW, Mercedes Benz, and Audi, while Opel and Volkswagen were less expensive, and Ford was in between.
     3. There was no clear relationship between each brand's price and its mileage.
     
-    
+![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/ebay_price_mileage.JPG?raw=true)
 
 # [Project 3: Establishing a Georgia Tech COVID-19 Testing System Database](https://github.com/Phinehas312/GT_COVID19_TestingSystemDB)
 * Analyzed and designed the entity relationship diagram, specified relational schema, and implemented procedures of online Georgia Tech COVID-19 testing system database.
