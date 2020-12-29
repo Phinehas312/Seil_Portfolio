@@ -24,7 +24,7 @@
 * As a result, I could find the following observations:
     1. The amount of car sales peaked from the late 1990's to ealry 2000's.
     2. Out of top 6 sales brands, the most expensive brands were BMW, Mercedes Benz, and Audi, while Opel and Volkswagen were less expensive, and Ford was in between.
-    3. There was no clear relationship between each brand's price and its mileage.
+    3. There was no clear relationship between each top brand's price and its mileage.
     
 ![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/ebay_price_mileage2.JPG)
 
