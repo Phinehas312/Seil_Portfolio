@@ -14,7 +14,21 @@
 ![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/doc_clustering.png)
 ![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/citation_graph.png)
 
-# [Project 2: Establishing a Georgia Tech COVID-19 Testing System Database](https://github.com/Phinehas312/GT_COVID19_TestingSystemDB)
+# [Project 2: Analyzing Ebay Car Sales Data]
+* Cleaned data for analysis with following procedures:
+    1. Dropping columns with insignificant values
+    2. Getting rid of outliers
+    3. Cleaning date columns
+    4. Observing car sales by year and by brand
+    5. Aggregated data by top sales brands' prices and mileages
+* As a result, I could find the following observations:
+    1. The amount of car sales peaked from the late 1990's to ealry 2000's.
+    2. Out of top 6 sales brands, the most expensive brands were BMW, Mercedes Benz, and Audi, while Opel and Volkswagen were less expensive, and Ford was in between.
+    3. There was no clear relationship between each brand's price and its mileage.
+    
+    
+
+# [Project 3: Establishing a Georgia Tech COVID-19 Testing System Database](https://github.com/Phinehas312/GT_COVID19_TestingSystemDB)
 * Analyzed and designed the entity relationship diagram, specified relational schema, and implemented procedures of online Georgia Tech COVID-19 testing system database.
 * Used the classical methodology for relational database development and implemented the system using a relational DBMS that supports standard SQL series.
 * Used my localhost MySQL Server to implement my database and the application.
@@ -24,7 +38,7 @@
 
 ![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/Phase%201%20ERD.jpg)
 
-# [Project 3: Optimizing a Diet Using PuLP](https://github.com/Phinehas312/Optimizing_diet)
+# [Project 4: Optimizing a Diet Using PuLP](https://github.com/Phinehas312/Optimizing_diet)
 * Found a way to satisfy the nutritional requirements of soldiers back in 1930's and 40's, while minimizing the cost.
 * Formulated an optimization model(a linear program) to find the cheapest diet that satisfies the maximum and minimum daily nutrition constraints, and solved it using PuLP.
 * For the first part, I made the model by only setting up the minimum and maximum constraints for each nutrition.
