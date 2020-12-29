@@ -14,7 +14,7 @@
 ![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/doc_clustering.png)
 ![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/citation_graph.png)
 
-# [Project 2: Analyzing Ebay Car Sales Data]()
+# [Project 2: Analyzing Ebay Car Sales Data](https://github.com/Phinehas312/Ebay_car_sales/blob/main/Ebay_car_sales.ipynb)
 * Cleaned data for analysis with following procedures:
     1. Dropping columns with insignificant values
     2. Getting rid of outliers
