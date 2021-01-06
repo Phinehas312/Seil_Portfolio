@@ -5,7 +5,7 @@
 * Created a COVID-19 Research Articles Dataset Browser, a dashboard system with an automated pipeline that summarizes COVID-19 research articles by incorporating three techniques: clustering, citation networks, and Q&A system.
 * The production of vast amounts of Covid-19 research publications has made it harder for users to look for publications, and also hinders the process of exploring them.
 * COVID-19 Open Research Dataset (CORD-19) is a text dataset of over 200,000 research articles’ abstracts, body texts, and metadata downloaded from National Institutes of Health. We sampled 10,000 articles for our project.
-* Document clustering: We represented documents using TF-IDF, reduced dimensionality using PCA and t-SNE, and clustered documents with k-means and LDA.
+* Document clustering: We represented documents using TF-IDF, reduced dimensionality using PCA, and clustered documents with k-means and LDA.
 * Graph analysis: We created a citation network between the articles using NetworkX and ArgoLite. For analyzing the influential capacity of each papers, we focused on in-degree and VoteRank centrality metrics.
 * Question Answering: We used a deep-learning model from HuggingFace library which utilizes BERT model for automated question answering.
 * Comparing with LDA, k-means produced 20 different topics of cluster assignments with less overlap.
