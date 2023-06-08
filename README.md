@@ -1,14 +1,17 @@
 # Seil_Portfolio
 ### Data science projects overview
 
-# [Project 0: Using Computer Vision and Deep Learning to Segment Meibography Images](https://github.com/Phinehas312/Seil_Portfolio/assets/66240552/922ae6e5-5fd3-45b2-a9b6-05511a8f8070)
-* Identified Good/Poor Quality Image
-    - Developed objective image quality metrics to assess image quality automatically.
-* Calculated Gland Loss
-* Characterized Glands
+# [Project 1: Using Computer Vision and Deep Learning to Segment Meibography Images](https://github.com/Phinehas312/Seil_Portfolio/assets/66240552/922ae6e5-5fd3-45b2-a9b6-05511a8f8070)
+1. Identified Good/Poor Quality Image
+    - Developed objective image quality metrics to assess image quality automatically using BRISQUE.
+2. Calculated Gland Loss
     - Implemented U-Net deep learning model on cloud platform, achieving mean IoU of 0.67 for ocular feature detection.
+4. Characterized Glands
+    - Calculated gland height, width, and tortuosity.
 
-# [Project 1: COVID-19 Research Articles Analysis and Visualization](https://github.com/Phinehas312/COVID19_Research_Articles_Analysis_and_Visualization/tree/main/CORD19)
+![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/Alcon-poster.JPG)
+
+# [Project 2: COVID-19 Research Articles Analysis and Visualization](https://github.com/Phinehas312/COVID19_Research_Articles_Analysis_and_Visualization/tree/main/CORD19)
 * Created a COVID-19 Research Articles Dataset Browser, a dashboard system with an automated pipeline that summarizes COVID-19 research articles by incorporating three techniques: clustering, citation networks, and Q&A system.
 * The production of vast amounts of Covid-19 research publications has made it harder for users to look for publications, and also hinders the process of exploring them.
 * COVID-19 Open Research Dataset (CORD-19) is a text dataset of over 200,000 research articles’ abstracts, body texts, and metadata downloaded from National Institutes of Health. We sampled 10,000 articles for our project.
@@ -20,20 +23,6 @@
 
 ![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/doc_clustering.png)
 ![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/citation_graph.png)
-
-# [Project 2: Analyzing Ebay Car Sales Data](https://github.com/Phinehas312/Ebay_car_sales/blob/main/Ebay_car_sales.ipynb)
-* Cleaned data for analysis with following procedures:
-    1. Dropping columns with insignificant values
-    2. Getting rid of outliers
-    3. Cleaning date columns
-    4. Observing car sales by year and by brand
-    5. Aggregating data by top sales brands' prices and mileages
-* As a result, I could find the following observations:
-    1. The amount of car sales peaked from the late 1990's to ealry 2000's.
-    2. Out of top 6 sales brands, the most expensive brands were BMW, Mercedes Benz, and Audi, while Opel and Volkswagen were less expensive, and Ford was in between.
-    3. There was no clear relationship between each top brand's price and its mileage.
-    
-![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/ebay_price_mileage2.JPG)
 
 # [Project 3: Establishing a Georgia Tech COVID-19 Testing System Database](https://github.com/Phinehas312/GT_COVID19_TestingSystemDB)
 * Analyzed and designed the entity relationship diagram, specified relational schema, and implemented procedures of online Georgia Tech COVID-19 testing system database.
@@ -52,3 +41,17 @@
 * For the second part, I added the following constraints to make the model: Many people dislike celery and frozen broccoli, so at most one was chosen. To get day-to-day variety in protein, at least 3 kinds of meat/poultry/fish/eggs were selected.
 * As a result, the optimal amount was $4.34 for the first part, and $4.51 for the second part.
 * The second result was almost the same as the first but slightly higher, from which we can assume that more constraints actually had some effects in the model, leading to a higher cost.
+
+# [Project 5: Analyzing Ebay Car Sales Data](https://github.com/Phinehas312/Ebay_car_sales/blob/main/Ebay_car_sales.ipynb)
+* Cleaned data for analysis with following procedures:
+    1. Dropping columns with insignificant values
+    2. Getting rid of outliers
+    3. Cleaning date columns
+    4. Observing car sales by year and by brand
+    5. Aggregating data by top sales brands' prices and mileages
+* As a result, I could find the following observations:
+    1. The amount of car sales peaked from the late 1990's to ealry 2000's.
+    2. Out of top 6 sales brands, the most expensive brands were BMW, Mercedes Benz, and Audi, while Opel and Volkswagen were less expensive, and Ford was in between.
+    3. There was no clear relationship between each top brand's price and its mileage.
+    
+![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/ebay_price_mileage2.JPG)
