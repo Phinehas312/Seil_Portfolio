@@ -9,7 +9,7 @@
 4. Characterized Glands
     - Calculated gland height, width, and tortuosity.
 
-![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/Alcon-poster.JPG)
+![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/Alcon-poster2.JPG)
 
 # [Project 2: COVID-19 Research Articles Analysis and Visualization](https://github.com/Phinehas312/COVID19_Research_Articles_Analysis_and_Visualization/tree/main/CORD19)
 * Created a COVID-19 Research Articles Dataset Browser, a dashboard system with an automated pipeline that summarizes COVID-19 research articles by incorporating three techniques: clustering, citation networks, and Q&A system.
