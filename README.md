@@ -1,6 +1,13 @@
 # Seil_Portfolio
 ### Data science projects overview
 
+# [Project 0: Using Computer Vision and Deep Learning to Segment Meibography Images](https://github.com/Phinehas312/Seil_Portfolio/assets/66240552/922ae6e5-5fd3-45b2-a9b6-05511a8f8070)
+* Identified Good/Poor Quality Image
+    - Developed objective image quality metrics to assess image quality automatically.
+* Calculated Gland Loss
+* Characterized Glands
+    - Implemented U-Net deep learning model on cloud platform, achieving mean IoU of 0.67 for ocular feature detection.
+
 # [Project 1: COVID-19 Research Articles Analysis and Visualization](https://github.com/Phinehas312/COVID19_Research_Articles_Analysis_and_Visualization/tree/main/CORD19)
 * Created a COVID-19 Research Articles Dataset Browser, a dashboard system with an automated pipeline that summarizes COVID-19 research articles by incorporating three techniques: clustering, citation networks, and Q&A system.
 * The production of vast amounts of Covid-19 research publications has made it harder for users to look for publications, and also hinders the process of exploring them.
