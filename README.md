@@ -1,7 +1,7 @@
 # Seil_Portfolio
 ### Data science projects overview
 
-# [Project 1: Using Computer Vision and Deep Learning to Segment Meibography Images](https://github.com/Phinehas312/Seil_Portfolio/assets/66240552/922ae6e5-5fd3-45b2-a9b6-05511a8f8070)
+# [Project 1: Using Computer Vision and Deep Learning to Segment Meibography Images](https://github.com/Phinehas312/Using-Computer-Vision-and-Deep-Learning-to-Segment-Meibography-Images.git)
 1. Identified Good/Poor Quality Image
     - Developed objective image quality metrics to assess image quality automatically using BRISQUE.
 2. Calculated Gland Loss
