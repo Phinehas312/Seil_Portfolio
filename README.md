@@ -41,17 +41,3 @@
 * For the second part, I added the following constraints to make the model: Many people dislike celery and frozen broccoli, so at most one was chosen. To get day-to-day variety in protein, at least 3 kinds of meat/poultry/fish/eggs were selected.
 * As a result, the optimal amount was $4.34 for the first part, and $4.51 for the second part.
 * The second result was almost the same as the first but slightly higher, from which we can assume that more constraints actually had some effects in the model, leading to a higher cost.
-
-# [Project 5: Analyzing Ebay Car Sales Data](https://github.com/Phinehas312/Ebay_car_sales/blob/main/Ebay_car_sales.ipynb)
-* Cleaned data for analysis with following procedures:
-    1. Dropping columns with insignificant values
-    2. Getting rid of outliers
-    3. Cleaning date columns
-    4. Observing car sales by year and by brand
-    5. Aggregating data by top sales brands' prices and mileages
-* As a result, I could find the following observations:
-    1. The amount of car sales peaked from the late 1990's to ealry 2000's.
-    2. Out of top 6 sales brands, the most expensive brands were BMW, Mercedes Benz, and Audi, while Opel and Volkswagen were less expensive, and Ford was in between.
-    3. There was no clear relationship between each top brand's price and its mileage.
-    
-![](https://github.com/Phinehas312/Seil_Portfolio/blob/main/images/ebay_price_mileage2.JPG)
